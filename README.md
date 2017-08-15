@@ -6,6 +6,6 @@ Portfolio is viewed best full-screen in Safari desktop browser.
 *HTML
 *CSS
 ##Authors
-**Omar Olivarez**
+* **Omar Olivarez**
 ##Acknowledgments
 Thank you to all the participants who made these photos possible.
