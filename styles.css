@@ -1,0 +1,140 @@
+#skyline{
+	position:relative;
+	width:auto;
+}
+
+#wrapper{
+	margin-left:auto;
+	margin-right:auto;
+	width:1400px;
+}
+
+#wrap{
+	margin-left:auto;
+	margin-right:auto;
+	position:absolute;
+	width:1400px;
+}
+
+.image1 {
+  position: relative;
+  top: 10;
+  left: 0;
+}
+
+.image2 {
+  position: absolute;
+  top: 0px;
+  left: 470px;
+}
+
+img{
+	width:100%;
+	height:auto;
+	display:block;
+}
+#skyline p{
+	position:absolute;
+	top:1%;
+	left:35%;
+	text-align:center;
+	color:#C0C0C0;
+	padding:1%;
+	font-size:50px;
+}
+#footer p{
+	text-align:center;
+}
+
+#about p{
+	position:absolute;
+	text-align:left;
+	padding:10%;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+	left:250px;
+}
+
+ul {
+    list-style-type: none;
+	position:fixed;
+	top:0;
+	width:100%;
+    margin: 0;
+    padding: 0;
+	border: 1px solid #e7e7e7;
+    overflow: hidden;
+    background-color: #f3f3f3;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 15px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: white;
+}
+
+h1 {
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
