@@ -3,8 +3,8 @@ Portfolio of graduation photos taken by Omar Olivarez. These are all original ph
 ## Getting Started
 Portfolio is viewed best full-screen in Safari desktop browser.
 ## Built With
-*HTML
-*CSS
+* HTML
+* CSS
 ## Authors
 * **Omar Olivarez**
 ## Acknowledgments
