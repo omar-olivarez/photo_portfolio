@@ -1,11 +1,11 @@
-#Omar Olivarez's Photography Portfolio
+# Omar Olivarez's Photography Portfolio
 Portfolio of graduation photos taken by Omar Olivarez. These are all original photos. It is strictly forbidden to copy, distribute, or sell this work.
-##Getting Started
+## Getting Started
 Portfolio is viewed best full-screen in Safari desktop browser.
-##Built With
+## Built With
 *HTML
 *CSS
-##Authors
+## Authors
 * **Omar Olivarez**
-##Acknowledgments
+## Acknowledgments
 Thank you to all the participants who made these photos possible.
